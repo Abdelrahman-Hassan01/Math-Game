@@ -1,4 +1,0 @@
-﻿  Math Game.cpp
-C:\Users\Elnour Tech\source\repos\Math Game\Math Game\Math Game.cpp(164,12): warning C4129: 'W': unrecognized character escape sequence
-C:\Users\Elnour Tech\source\repos\Math Game\Math Game\Math Game.cpp(109,1): warning C4715: 'Levels': not all control paths return a value
-  Math Game.vcxproj -> C:\Users\Elnour Tech\source\repos\Math Game\x64\Debug\Math Game.exe
